@@ -1,0 +1,13 @@
+{
+    "dev": {
+        "apiBaseUrl": "https://apiforms.villatec.com.pe",
+        "env": "dev",
+        "updatedAt": "2026-05-11"
+    },
+    "prod": {
+        "apiBaseUrl": "https://apiforms.villatec.com.pe",
+        "env": "prod",
+        "updatedAt": "2026-05-11"
+    }
+}
+  
