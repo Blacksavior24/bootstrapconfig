@@ -1,11 +1,11 @@
 {
     "dev": {
-        "apiBaseUrl": "http://201.148.107.18:3005",
+        "apiBaseUrl": "https://apioecforms.villatec.com.pe",
         "env": "dev",
         "updatedAt": "2026-07-17"
     },
     "prod": {
-        "apiBaseUrl": "http://201.148.107.18:3005",
+        "apiBaseUrl": "https://apioecforms.villatec.com.pe",
         "env": "prod",
         "updatedAt": "2026-07-17"
     }
